@@ -1,3 +1,2 @@
-data = [2,4,6]
-print( sum(data))
-print '"moy=",sum(data)/len(data)
+data=[2,4,6]
+print(sum(data))
